@@ -1,0 +1,60 @@
+{
+  "459255509220851712": {
+    "username": "gerinium",
+    "points": 959,
+    "chestsOpened": 5,
+    "inventory": [
+      "alap"
+    ],
+    "activeBackground": "alap",
+    "borderInventory": [
+      "nincs"
+    ],
+    "activeBorder": "nincs",
+    "tokens": 0,
+    "xp": 31,
+    "level": 4,
+    "hasPremium": true,
+    "energy": 65,
+    "lastRefill": "2026. 06. 02.",
+    "questCounter": 3,
+    "vshard": null,
+    "dailyTasks": {
+      "questsDone": 1,
+      "splashesUsed": 0,
+      "xpEarned": 105,
+      "claimed": [
+        false,
+        false,
+        false
+      ]
+    },
+    "lastDailyTasksDate": "2026. 06. 02.",
+    "base": {
+      "hqLevel": 1,
+      "shardGenLevel": 1,
+      "ptGenLevel": 1,
+      "lastClaim": 1780391859009
+    }
+  },
+  "590498074204307483": {
+    "username": "evilcat7477",
+    "points": 0,
+    "chestsOpened": 0,
+    "inventory": [
+      "alap"
+    ],
+    "activeBackground": "alap",
+    "borderInventory": [
+      "nincs"
+    ],
+    "activeBorder": "nincs",
+    "tokens": 0,
+    "xp": 0,
+    "level": 1,
+    "hasPremium": false,
+    "energy": 15,
+    "lastRefill": "2026. 06. 01.",
+    "questCounter": 1
+  }
+}

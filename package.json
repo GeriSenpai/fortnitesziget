@@ -1,0 +1,16 @@
+{
+  "name": "discord-tagszamlo-bot",
+  "version": "1.0.0",
+  "description": "Discord tag számláló bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.0",
+    "@napi-rs/canvas": "^0.1.44"
+  },
+  "engines": {
+    "node": ">=16.11.0"
+  }
+}
